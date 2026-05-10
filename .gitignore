@@ -1,0 +1,27 @@
+# Vercel local login and project cache
+.vercel/
+.vercel-cli/
+com.vercel.cli/
+
+# Windows and local app cache
+Microsoft/
+Thumbs.db
+Desktop.ini
+
+# Logs, temporary process files, and local helper scripts
+*.log
+*.pid
+*.tmp
+*.tgz
+vercel-*.json
+vercel-*
+run-vercel-*.js
+headers-public-check.txt
+sp-test.*
+
+# Dependencies and build output if the site later grows
+node_modules/
+dist/
+build/
+.env
+.env.*
