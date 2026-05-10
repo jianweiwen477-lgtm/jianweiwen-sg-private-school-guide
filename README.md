@@ -16,7 +16,7 @@ https://jianweiwen.vercel.app
 - `housingMatchData`：每所学校附近住宿区域。
 - `nearbyLifeData`：每所学校附近的 MRT、bus stop、公交、美食、food court 和商圈。
 - `intakeRows`：入学时间样例。
-- `quizBank`：小测验题目和结果。
+- `quizData`：小测验题目和结果。
 
 如果只是改微信、WhatsApp、邮箱，可以直接搜索对应号码或邮箱，然后替换。
 
